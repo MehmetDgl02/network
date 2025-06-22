@@ -4,13 +4,7 @@
   "description": "Network Layer Issues - Example Problems and Solutions",
   "type": "module",
   "scripts": {
-<<<<<<< HEAD
     "start": "node server.js"
-=======
-    "dev": "vite",
-    "build": "vite build",
-    "preview": "vite preview"
->>>>>>> 95f3d3c0ba0dafd0d29bf631d85f70c4fc9d78c4
   },
   "keywords": [
     "network",
@@ -20,14 +14,7 @@
   ],
   "author": "",
   "license": "MIT",
-<<<<<<< HEAD
   "dependencies": {
     "express": "^4.21.2"
   }
 }
-=======
-  "devDependencies": {
-    "vite": "^5.0.0"
-  }
-}
->>>>>>> 95f3d3c0ba0dafd0d29bf631d85f70c4fc9d78c4
