@@ -1,20 +1,5 @@
 {
   "name": "network-layer-issues",
   "version": "1.0.0",
-  "description": "Network Layer Issues - Example Problems and Solutions",
-  "type": "module",
-  "scripts": {
-    "start": "node server.js"
-  },
-  "keywords": [
-    "network",
-    "layer",
-    "issues",
-    "packet-tracer"
-  ],
-  "author": "",
-  "license": "MIT",
-  "dependencies": {
-    "express": "^4.21.2"
-  }
+  "description": "Network Layer Issues - Example Problems and Solutions"
 }
